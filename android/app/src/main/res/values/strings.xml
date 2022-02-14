@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">one_click_login</string>
+    <string name="facebook_app_id">1394867630692003</string> 
+    <string name="fb_login_protocol_scheme">fb1394867630692003</string>
+</resources>

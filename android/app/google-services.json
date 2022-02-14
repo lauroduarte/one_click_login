@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663741304885",
+    "firebase_url": "https://one-click-login-52f13.firebaseio.com",
+    "project_id": "one-click-login-52f13",
+    "storage_bucket": "one-click-login-52f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663741304885:android:ca05fae7bebea33a81217c",
+        "android_client_info": {
+          "package_name": "com.example.one_click_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663741304885-nc5t194irs34i7s7fl134qefhlb8gpu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.one_click_login",
+            "certificate_hash": "62532eacfef503cff12b2bc54f8501265162131e"
+          }
+        },
+        {
+          "client_id": "663741304885-tme4cnu6njnpfvm14rrgltp7uhq4clqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34J_MxBeI5b5UVXOBG4sbfzkBlA0nRL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663741304885-tme4cnu6njnpfvm14rrgltp7uhq4clqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
